@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
                       height: 30,
                     ),
                     Text(
-                      "Chiclen ол мықты және крутой  ",
+                      "Chicken ол мықты және крутой  ",
                       style: TextStyle(
                         color: Color.fromARGB(255, 255, 255, 255),
                         fontSize: 20,
